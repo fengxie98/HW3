@@ -4,7 +4,7 @@ int main() {
 
     int menu;
     double PIE = 3.14159;
-    double radius, length, width, base, height, area, firstNumber,secondNumber;
+    double radius, length, width, base, height, area;
 
     printf("Calcuate Circle area(1): \n");
     printf("Calculate Rectangle area(2): \n");
